@@ -4,5 +4,5 @@
      | | __ |  __|| | | |    /|  __| 
      | |_\ \| |___| |/ /| |\ \| |___ 
       \____/\____/|___/ \_| \_\____/ 
-     Inteligência em Iluminação                         
+     GEDRE Inteligência em Iluminação                         
      
