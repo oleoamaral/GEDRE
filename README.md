@@ -6,3 +6,6 @@
       \____/\____/|___/ \_| \_\____/ 
      ----- Inteligência em Iluminação                         
      
+# GEDRE - Inteligência em Iluminação 
+
+Research & Development laboratory at the Federal University of Santa Maria. 
